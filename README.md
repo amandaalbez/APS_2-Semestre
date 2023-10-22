@@ -16,3 +16,4 @@ com até 128 caracteres ou mais mas em questão no nosso trabalho irá até esse
 Por fim, fundamentamos uma ideia de painel moderno, eficiente e auto-explicativo no
 nosso software que cumpre com toda a proposta que foi imposta nesta atividade semestral.
 
+**<h2>🔒Software</h2>**
