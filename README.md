@@ -19,6 +19,8 @@ nosso software que cumpre com toda a proposta que foi imposta nesta atividade se
 **<h2>👨‍💻 Equipe:</h2>**
 <li>
   <a href="https://github.com/amandaalbez">Amanda Bezerra de Alcântara</a><br>
+</li>
+<li>
   <a href="https://github.com/phbustamante">Pedro Henrique Bustamante</a><br>
 </li>
 
