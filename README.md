@@ -17,3 +17,18 @@ Por fim, fundamentamos uma ideia de painel moderno, eficiente e auto-explicativo
 nosso software que cumpre com toda a proposta que foi imposta nesta atividade semestral.
 
 **<h2>🔒Software</h2>**
+Pensamos em desenvolver uma interface gráfica que fosse de fácil entendimento para
+o usuário, trazendo algo mais prático e moderno.
+<br><br>
+A interface está em modo dark para que fique mais agradável esteticamente e possui
+um lado para a criptografia e outro para descriptografia.
+<br><br>
+No lado da Criptografia, possui a caixa de entrada para receber a frase, outra caixa de
+entrada para o recebimento da chave, uma caixa de saída por onde sai a frase já cifrada e o
+botão de criptografar.
+<br><br>
+Já no lado da Descriptografia possui uma caixa de entrada para a chave novamente,
+outra caixa de saída para a frase decifrada e dois botões um para descriptografar e um para
+limpar todos os campos da tela
+<br><br>
+![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/amandaalbez/APS_2-Semestre/assets/104281621/368cb950-70bd-4512-a585-e1b93dca4b9c)
