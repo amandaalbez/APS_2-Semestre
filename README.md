@@ -31,4 +31,4 @@ Já no lado da Descriptografia possui uma caixa de entrada para a chave novament
 outra caixa de saída para a frase decifrada e dois botões um para descriptografar e um para
 limpar todos os campos da tela
 <br><br>
-![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/amandaalbez/APS_2-Semestre/assets/104281621/368cb950-70bd-4512-a585-e1b93dca4b9c)
+![ezgif com-video-to-gif](https://github.com/amandaalbez/APS_2-Semestre/assets/104281621/ac18ff8c-a10f-4c58-8041-2b1bd219f24e)
