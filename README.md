@@ -16,6 +16,11 @@ com até 128 caracteres ou mais mas em questão no nosso trabalho irá até esse
 Por fim, fundamentamos uma ideia de painel moderno, eficiente e auto-explicativo no
 nosso software que cumpre com toda a proposta que foi imposta nesta atividade semestral.
 
+**<h2>👨‍💻 Equipe:</h2>**
+<li>
+  <a href="https://github.com/amandaalbez">Amanda Bezerra de Alcântara</a><br>
+</li>
+
 **<h2>🔒Software</h2>**
 Pensamos em desenvolver uma interface gráfica que fosse de fácil entendimento para
 o usuário, trazendo algo mais prático e moderno.
