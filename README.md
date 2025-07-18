@@ -41,7 +41,7 @@ limpar todos os campos da tela
 <br><br>
 ![ezgif com-video-to-gif](https://github.com/amandaalbez/APS_2-Semestre/assets/104281621/ac18ff8c-a10f-4c58-8041-2b1bd219f24e)
 
-**<h2>⚙ Tecnologia Ultilizada:</h2>**
+**<h2>⚙ Tecnologia Utilizada:</h2>**
 <div align="center">
   <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB" title="trello" alt="trello"/>&nbsp;
 </div>
